@@ -1,0 +1,16 @@
+{
+  "name": "restapi-node-mysql",
+  "version": "1.0.0",
+  "description": "RESTapi NodeJS con Express y MYSQL para el proyecto TECHowler",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "HansFarro",
+  "license": "ISC",
+  "devDependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.2",
+    "mysql": "^2.18.1"
+  }
+}
